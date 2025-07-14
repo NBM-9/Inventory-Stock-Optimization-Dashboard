@@ -1,5 +1,5 @@
 
-# Inventory Management & Stock Optimization Dashboard – Power BI
+# Inventory-management-dashboard – Power BI
 
 This project uses Power BI to visualize and monitor inventory performance across warehouses. It helps track stock levels, prevent stockouts, and optimize reorder processes.
 
