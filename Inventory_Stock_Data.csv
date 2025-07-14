@@ -1,0 +1,7 @@
+Product,Category,Warehouse,StockOnHand,ReorderLevel,SafetyStock,Sales,LastUpdated
+Monitor,Electronics,East,120,100,20,50000,2024-06-01
+Keyboard,Electronics,West,75,50,15,20000,2024-06-01
+Mouse,Electronics,East,200,150,30,15000,2024-06-01
+Laptop,Electronics,North,50,40,10,120000,2024-06-01
+Tablet,Electronics,South,90,60,20,30000,2024-06-01
+Charger,Accessories,West,150,100,25,10000,2024-06-01
